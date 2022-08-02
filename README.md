@@ -3,9 +3,12 @@
 A fylo landing page created using react and tailwind css.
 
 ## Installation
+
+```
 Node.js
 Npm
 
+```
 ```bash
 git clone https://github.com/Mugambi645/fylo-landing-page
 ```
