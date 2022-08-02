@@ -5,6 +5,7 @@ import Hero from './components/home/Hero';
 import Features from './components/home/Features';
 import Productive from './components/home/Productive';
 import Testimonials from './components/home/Testimonials';
+import Footer from './components/home/Footer';
 function App() {
   return (
     <div className="App">
@@ -13,6 +14,7 @@ function App() {
      <Features/>
      <Productive/>
      <Testimonials/>
+     <Footer/>
     </div>
   );
 }
